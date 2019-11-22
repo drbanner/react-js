@@ -19,7 +19,7 @@ class Board extends React.Component {
       />
     );
   }
-
+  // this is render
   render() {
     return (
       <div>
